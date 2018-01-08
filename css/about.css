@@ -100,3 +100,18 @@ p {
   max-width: 80%;
   max-height: auto;
 }
+
+.card-img {
+  width: 100%;
+  border-radius: calc(0.25rem - 1px);
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+  vertical-align: middle;
+}
+
+.card {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+
+}
