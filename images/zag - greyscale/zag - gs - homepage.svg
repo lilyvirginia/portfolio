@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="3706px" viewBox="0 0 1024 3706" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>HOMEPAGE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="17" y="0" width="1024" height="582"></rect>
+        <circle id="path-2" cx="49.5" cy="144.5" r="49.5"></circle>
+        <filter x="-3.5%" y="-2.5%" width="107.1%" height="107.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="241.5" cy="383.5" r="49.5"></circle>
+        <filter x="-3.5%" y="-2.5%" width="107.1%" height="107.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-6" cx="86" cy="394" r="39"></circle>
+        <filter x="-4.5%" y="-3.2%" width="109.0%" height="109.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-8" cx="401" cy="272" r="39"></circle>
+        <filter x="-4.5%" y="-3.2%" width="109.0%" height="109.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-10" cx="123.5" cy="285.5" r="25.5"></circle>
+        <filter x="-6.9%" y="-4.9%" width="113.7%" height="113.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-12" cx="288" cy="280" r="20"></circle>
+        <filter x="-8.8%" y="-6.2%" width="117.5%" height="117.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-14" cx="350.5" cy="177.5" r="16.5"></circle>
+        <filter x="-10.6%" y="-7.6%" width="121.2%" height="121.2%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-16" cx="307.5" cy="53.5" r="16.5"></circle>
+        <filter x="-10.6%" y="-7.6%" width="121.2%" height="121.2%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-18" cx="414.5" cy="95.5" r="25.5"></circle>
+        <filter x="-6.9%" y="-4.9%" width="113.7%" height="113.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-20" cx="221" cy="163" r="68"></circle>
+        <filter x="-2.6%" y="-1.8%" width="105.1%" height="105.1%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-22" cx="114" cy="35" r="35"></circle>
+        <filter x="-5.0%" y="-3.6%" width="110.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="0" y="0" width="519" height="348"></rect>
+        <filter x="-1.3%" y="-1.4%" width="102.7%" height="104.0%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-26" x="0" y="0" width="1024" height="705"></rect>
+        <path d="M18.9355948,78.3168455 L0.345186162,84.7180365 L0.803560834,69.6806153 L0.803560834,8 C0.803560834,3.581722 4.38528283,8.11624501e-16 8.80356083,0 L175.947487,0 C180.365765,-8.11624501e-16 183.947487,3.581722 183.947487,8 L183.947487,70.3168455 C183.947487,74.7351235 180.365765,78.3168455 175.947487,78.3168455 L18.9355948,78.3168455 Z" id="path-27"></path>
+        <filter x="-3.8%" y="-5.9%" width="107.6%" height="116.5%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13.6813735,32.0994268 L0.0113555941,36.8063915 L4.44524207,26.5590895 C4.19512031,25.7841698 4.06000239,24.9575776 4.06000239,24.0994268 L4.06000239,8 C4.06000239,3.581722 7.64172439,8.11624501e-16 12.0600024,0 L177,0 C181.418278,-8.11624501e-16 185,3.581722 185,8 L185,24.0994268 C185,28.5177048 181.418278,32.0994268 177,32.0994268 L13.6813735,32.0994268 Z" id="path-29"></path>
+        <filter x="-3.8%" y="-13.6%" width="107.6%" height="138.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.3743738,78.3188712 L0.778098185,84.7220823 L1.3386195,66.435995 L1.3386195,8 C1.3386195,3.581722 4.9203415,8.11624501e-16 9.3386195,0 L176.581534,0 C180.999812,-1.65085012e-14 184.581534,3.581722 184.581534,8 L184.581534,70.3188712 C184.581534,74.7371492 180.999812,78.3188712 176.581534,78.3188712 L19.3743738,78.3188712 Z" id="path-31"></path>
+        <filter x="-3.8%" y="-5.9%" width="107.6%" height="116.5%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M76.8383508,22.603526 L78,33 L70.0054061,30 L6.75630252,30 C3.02489967,30 0,26.4535387 0,22.0787571 L0,7.92124295 C0,3.54646127 3.02489967,-8.03634357e-16 6.75630252,0 L70.0966387,0 C73.8280415,8.03634357e-16 76.8529412,3.54646127 76.8529412,7.92124295 L76.8529412,22.0787571 C76.8529412,22.255085 76.8480271,22.4300673 76.8383508,22.603526 Z" id="path-33"></path>
+        <filter x="-9.0%" y="-15.2%" width="117.9%" height="142.4%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M192.432761,59.4630992 L195,85 L177.938446,77.8840271 C177.169995,78.0141392 176.385037,78.0813953 175.587184,78.0813953 L16.9240659,78.0813953 C7.57716241,78.0813953 0,68.8509739 0,57.4646719 L0,20.6167234 C0,9.23042148 7.57716241,-2.09162973e-15 16.9240659,0 L175.587184,0 C184.934088,2.09162973e-15 192.51125,9.23042148 192.51125,20.6167234 L192.51125,57.4646719 C192.51125,58.1388622 192.484685,58.8054941 192.432761,59.4630992 Z" id="path-35"></path>
+        <filter x="-3.6%" y="-5.9%" width="107.2%" height="116.5%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-3.1%" y="-10.0%" width="106.2%" height="128.0%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-38" x="0" y="0" width="224" height="50" rx="20"></rect>
+        <filter x="-3.1%" y="-10.0%" width="106.2%" height="128.0%" filterUnits="objectBoundingBox" id="filter-39">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-40" x="0" y="0" width="224" height="50" rx="20"></rect>
+        <filter x="-2.3%" y="-10.0%" width="104.7%" height="128.0%" filterUnits="objectBoundingBox" id="filter-41">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-42" x="0" y="0" width="301" height="50" rx="20"></rect>
+        <rect id="path-43" x="0" y="0" width="1024" height="150"></rect>
+        <rect id="path-44" x="0" y="3" width="301" height="234"></rect>
+        <rect id="path-45" x="380" y="297" width="301" height="234"></rect>
+        <rect id="path-46" x="0" y="593" width="301" height="234"></rect>
+        <rect id="path-47" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-56">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-57" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-67" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-68">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-69" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-71" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-72">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-73" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-74">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-75" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-76">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-77" x="0" y="0" width="148" height="48" rx="8"></rect>
+        <filter x="-2.4%" y="-5.2%" width="104.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-78">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-79" x="0" y="0" width="1024" height="100"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOMEPAGE">
+            <g id="Testimonials" transform="translate(-17.000000, 2361.000000)">
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="17.5" y="0.5" width="1023" height="581"></rect>
+                </g>
+                <text id="“Finally!-All-my-con" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="575" y="115">“Finally! All my contacts in one place.”</tspan>
+                </text>
+                <text id="“I-won’t-ever-miss-m" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="512" y="159">“I won’t ever miss my best friend’s dog’s birthday again.”</tspan>
+                </text>
+                <text id="“I-never-knew-I-need" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="512" y="244">“I never knew I needed it. Now I can’t live without it.”</tspan>
+                </text>
+                <text id="“Only-needing-to-loo" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="571" y="288">“Only needing to look in one place to get and send all of my</tspan>
+                    <tspan x="571" y="314">e-mails, social media messages and texts??? I’m sold.”</tspan>
+                </text>
+                <text id="“For-a-freelancer-li" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="669" y="202">“For a freelancer like me, Lttr has been a lifesaver.”</tspan>
+                </text>
+                <g id="Avatars" transform="translate(0.000000, 70.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-20"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="How-it-works" transform="translate(253.000000, 765.000000)">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-24"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="518" height="347"></rect>
+                </g>
+                <polygon id="Triangle-2" stroke="#000000" fill="#000000" points="272 198.955555 247 211.90835 247.00143 186"></polygon>
+                <text font-family="Hind-Medium, Hind" font-size="36" font-weight="400" fill="#333333">
+                    <tspan x="156" y="149">How it works</tspan>
+                </text>
+            </g>
+            <g id="Hero">
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-26"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="1023" height="704"></rect>
+                </g>
+                <g id="Hero-Image" transform="translate(400.000000, 80.000000)">
+                    <g id="Left">
+                        <g id="Group-5" transform="translate(3.000000, 0.000000)">
+                            <g id="Text">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                            </g>
+                            <text id="I-love-my-new-websit" font-family="Hind-Light, Hind" font-size="14" font-weight="300" fill="#333333">
+                                <tspan x="21" y="20">I love my new website.</tspan>
+                                <tspan x="21" y="43">Thank you!! I’ll send </tspan>
+                                <tspan x="21" y="66">you payment soon.</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-4" transform="translate(0.000000, 138.000000)">
+                            <g id="Text">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#7ED321" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <text id="Happy-Birthday!!!!" font-family="Hind-Light, Hind" font-size="14" font-weight="300" fill="#FFFFFF">
+                                <tspan x="23" y="20">Happy Birthday!!!!</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-6" transform="translate(3.000000, 185.000000)">
+                            <g id="Text">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#1188FF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                            </g>
+                            <text id="Sorry!-I-meant-to-te" font-family="Hind-Light, Hind" font-size="14" font-weight="300" fill="#FFFFFF">
+                                <tspan x="20" y="20">Sorry! I meant to </tspan>
+                                <tspan x="20" y="43">text you here not on</tspan>
+                                <tspan x="20" y="66">FB… Happy Birthday!</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Right-" transform="translate(29.000000, 95.000000)">
+                        <g id="Group-2" transform="translate(117.000000, 0.000000)">
+                            <g id="Text-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#333333" fill-rule="evenodd" xlink:href="#path-33"></use>
+                            </g>
+                            <text id="Great!" font-family="Hind-Light, Hind" font-size="14" font-weight="300" fill="#FFFFFF">
+                                <tspan x="20" y="20">Great! </tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(0.000000, 184.000000)">
+                            <g id="Text-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#333333" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            </g>
+                            <text id="Thanks.-It’s-ok,-I-s" font-family="Hind-Light, Hind" font-size="14" font-weight="300" fill="#FFFFFF">
+                                <tspan x="22" y="20">Thanks. It’s ok, I see all your </tspan>
+                                <tspan x="22" y="43">different messages </tspan>
+                                <tspan x="22" y="66">in the same thread!</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Hero-Text" transform="translate(200.000000, 479.000000)" fill="#333333">
+                    <text id="Meet-ZAG…" font-family="Hind-Bold, Hind" font-size="40" font-weight="bold">
+                        <tspan x="201" y="42">Meet ZAG…</tspan>
+                    </text>
+                    <text id="Tired-of-switching-b" font-family="Hind-Light, Hind" font-size="16" font-weight="300">
+                        <tspan x="0.536" y="73">Tired of switching back and forth between Gmail, iPhone and all your other messaging apps?</tspan>
+                        <tspan x="33.608" y="99">Now ZAG lets you see and organize all of your communication into one easy place.</tspan>
+                    </text>
+                </g>
+                <text id="Logo" font-family="Seravek-Bold, Seravek" font-size="24" font-weight="bold" fill="#333333">
+                    <tspan x="86" y="42">ZAG</tspan>
+                </text>
+            </g>
+            <g id="CTA-BTN-1" filter="url(#filter-37)" transform="translate(400.000000, 604.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#8C88FF" fill-rule="evenodd" xlink:href="#path-38"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="223" height="49" rx="20"></rect>
+                </g>
+                <text id="Start-Your-Free-Acco" font-family="Hind-Medium, Hind" font-size="16" font-weight="400" fill="#F9F8F8">
+                    <tspan x="28.544" y="29">Start Your Free Account</tspan>
+                </text>
+            </g>
+            <g id="CTA-BTN-2" filter="url(#filter-39)" transform="translate(400.000000, 1173.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#8C88FF" fill-rule="evenodd" xlink:href="#path-40"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="223" height="49" rx="20"></rect>
+                </g>
+                <text id="Sign-Up-Now" font-family="Hind-Medium, Hind" font-size="16" font-weight="400" fill="#F9F8F8">
+                    <tspan x="67.38" y="29">Sign Up Now</tspan>
+                </text>
+            </g>
+            <g id="CTA-BTN-3" filter="url(#filter-41)" transform="translate(683.000000, 2850.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#8C88FF" fill-rule="evenodd" xlink:href="#path-42"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="300" height="49" rx="20"></rect>
+                </g>
+                <text id="Start-your-free-acco" font-family="Hind-Medium, Hind" font-size="16" font-weight="400" fill="#F9F8F8">
+                    <tspan x="46.212" y="30.4901961">Start your free account today!</tspan>
+                </text>
+            </g>
+            <g id="Sign-In-Up" transform="translate(831.000000, 21.000000)">
+                <g id="Sign-Up" transform="translate(65.000000, 0.000000)">
+                    <rect id="Rectangle-2" stroke="#FFFFFF" x="0.5" y="0.5" width="106" height="32" rx="16"></rect>
+                    <text font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                        <tspan x="22" y="23">Sign Up</tspan>
+                    </text>
+                </g>
+                <text id="Sign-In" font-family="Hind-Light, Hind" font-size="16" font-weight="300" fill="#333333">
+                    <tspan x="0" y="23">Sign In</tspan>
+                </text>
+            </g>
+            <g id="WIRED-Banner" transform="translate(0.000000, 1264.000000)">
+                <g id="Rectangle">
+                    <use fill="#535252" fill-rule="evenodd" xlink:href="#path-43"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="1023" height="149"></rect>
+                </g>
+                <text id="Simple.Powerful.-Eff" font-family="Seravek-Light, Seravek" font-size="24" font-weight="300" fill="#FFFFFF">
+                    <tspan x="378.568" y="53">Simple.Powerful. Effective.</tspan>
+                    <tspan x="360.652" y="82">ZAG will make your life better.</tspan>
+                    <tspan x="471.196" y="111">- WIRED</tspan>
+                </text>
+            </g>
+            <g id="Features" transform="translate(172.000000, 1473.000000)">
+                <g id="Rectangle-6">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-44"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="3.5" width="300" height="233"></rect>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-45"></use>
+                    <rect stroke="#979797" stroke-width="1" x="380.5" y="297.5" width="300" height="233"></rect>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-46"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="593.5" width="300" height="233"></rect>
+                </g>
+                <text id="At-last…-All-of-your" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="380" y="25">At last…</tspan>
+                    <tspan x="380" y="63" font-family="Hind-Light, Hind" font-weight="300"></tspan>
+                    <tspan x="380" y="101" font-family="Hind-Light, Hind" font-size="16" font-weight="300">All of your messages in one place. No more </tspan>
+                    <tspan x="380" y="127" font-family="Hind-Light, Hind" font-size="16" font-weight="300">flipping between different apps just to see </tspan>
+                    <tspan x="380" y="153" font-family="Hind-Light, Hind" font-size="16" font-weight="300">what mom wrote you last.</tspan>
+                </text>
+                <text id="Finally…-Tags,-calen" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="1" y="319">Finally…</tspan>
+                    <tspan x="1" y="357"></tspan>
+                    <tspan x="1" y="395" font-family="Hind-Light, Hind" font-size="16" font-weight="300">Tags, calendar integration and more will </tspan>
+                    <tspan x="1" y="421" font-family="Hind-Light, Hind" font-size="16" font-weight="300">keep your professional contacts thinking </tspan>
+                    <tspan x="1" y="447" font-family="Hind-Light, Hind" font-size="16" font-weight="300">you’re still at the office. Friends will still </tspan>
+                    <tspan x="1" y="473" font-family="Hind-Light, Hind" font-size="16" font-weight="300">think you’re just as awesome, if not more so.</tspan>
+                </text>
+                <text id="Hoorah!-Our-browser" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="380" y="615">Hoorah!</tspan>
+                    <tspan x="380" y="653"></tspan>
+                    <tspan x="380" y="691" font-family="Hind-Light, Hind" font-size="16" font-weight="300">Our browser extension gives you a powerful </tspan>
+                    <tspan x="380" y="717" font-family="Hind-Light, Hind" font-size="16" font-weight="300">reminder of who you’re talking to and what </tspan>
+                    <tspan x="380" y="743" font-family="Hind-Light, Hind" font-size="16" font-weight="300">your recent history with them is.</tspan>
+                    <tspan x="597.28" y="743"></tspan>
+                </text>
+            </g>
+            <g id="Services" transform="translate(86.000000, 2991.000000)">
+                <g id="Group-9" transform="translate(87.000000, 84.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-47"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Gmail" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="38.6567164" y="32">Gmail</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(263.000000, 84.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-49"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Twitter" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="30.9253731" y="32">Twitter</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(440.000000, 84.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-51"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="iPhone" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="33.1343284" y="32">iPhone</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(616.000000, 84.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-53"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="LinkedIn" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="24.2985075" y="32">LinkedIn</tspan>
+                    </text>
+                </g>
+                <g id="Group-16" transform="translate(616.000000, 167.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-55"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Slack" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="43.0746269" y="32">Slack</tspan>
+                    </text>
+                </g>
+                <g id="Group-15" transform="translate(440.000000, 167.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-57"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Skype" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="38.6567164" y="32">Skype</tspan>
+                    </text>
+                </g>
+                <g id="Group-14" transform="translate(263.000000, 167.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-59"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="SMS" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="48.5970149" y="32">SMS</tspan>
+                    </text>
+                </g>
+                <g id="Group-13" transform="translate(87.000000, 167.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-61"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="WeChat" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="26.5074627" y="32">WeChat</tspan>
+                    </text>
+                </g>
+                <g id="Group-17" transform="translate(87.000000, 252.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-63"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Grape" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="38.6567164" y="32">Grape</tspan>
+                    </text>
+                </g>
+                <g id="Group-18" transform="translate(263.000000, 252.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-65"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Telegram" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="19.880597" y="32">Telegram</tspan>
+                    </text>
+                </g>
+                <g id="Group-19" transform="translate(443.000000, 252.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-68)" xlink:href="#path-67"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-67"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="ChatWork" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="13.2537313" y="32">ChatWork</tspan>
+                    </text>
+                </g>
+                <g id="Group-23" transform="translate(440.000000, 335.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-70)" xlink:href="#path-69"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-69"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="icq" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="56.3283582" y="32">icq</tspan>
+                    </text>
+                </g>
+                <g id="Group-24" transform="translate(616.000000, 335.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-72)" xlink:href="#path-71"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-71"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="GroupMe" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="18.7761194" y="32">GroupMe</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(263.000000, 335.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-74)" xlink:href="#path-73"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-73"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="DingTalk" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="22.0895522" y="32">DingTalk</tspan>
+                    </text>
+                </g>
+                <g id="Group-21" transform="translate(87.000000, 335.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-76)" xlink:href="#path-75"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-75"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Crisp" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="44.1791045" y="32">Crisp</tspan>
+                    </text>
+                </g>
+                <g id="Group-20" transform="translate(616.000000, 252.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-78)" xlink:href="#path-77"></use>
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-77"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="147" height="47" rx="8"></rect>
+                    </g>
+                    <text id="Whatsapp" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                        <tspan x="13.2537313" y="31">Whatsapp</tspan>
+                    </text>
+                </g>
+                <text id="We-Support" font-family="Hind-Medium, Hind" font-size="36" font-weight="400" fill="#333333">
+                    <tspan x="0" y="33">We Support</tspan>
+                </text>
+                <text id="Find-out-more…" font-family="Hind-Medium, Hind" font-size="16" font-weight="400" fill="#8C88FF">
+                    <tspan x="655" y="452">Find out more…</tspan>
+                </text>
+            </g>
+            <g id="Inc" transform="translate(0.000000, 3504.000000)">
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-79"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="1023" height="99"></rect>
+                </g>
+                <text id="“The-best-thing-ever" font-family="Hind-Medium, Hind" font-size="24" font-weight="400" fill="#333333">
+                    <tspan x="400.256" y="37">“The best thing ever.”</tspan>
+                    <tspan x="487.1" y="75">- Inc.</tspan>
+                </text>
+            </g>
+            <g id="Footer" transform="translate(83.000000, 3641.000000)" fill="#333333">
+                <text id="©-2017.-ZAG---All-Ri" font-family="Hind-Light, Hind" font-size="16" font-weight="300">
+                    <tspan x="0" y="23">© 2017. ZAG - All Rights Reserved</tspan>
+                </text>
+                <text id="Terms-/-Privacy-Poli" font-family="Hind-Light, Hind" font-size="16" font-weight="300">
+                    <tspan x="302.64" y="18">Terms / Privacy Policy / Contact Us / </tspan>
+                    <tspan x="338.776" y="44">About Us  / Twitter / FAQ</tspan>
+                </text>
+                <text id="Logo" font-family="Hind-Bold, Hind" font-size="24" font-weight="bold">
+                    <tspan x="809" y="25">ZAG</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

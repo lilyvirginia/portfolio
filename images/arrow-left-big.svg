@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="18px" viewBox="0 0 39 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-Media" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-179.000000, -333.000000)">
+        <g id="Group-2" transform="translate(196.500000, 342.000000) scale(-1, 1) translate(-196.500000, -342.000000) translate(179.000000, 333.000000)">
+            <polygon id="Triangle-3" fill="#333333" transform="translate(26.000000, 9.000000) rotate(90.000000) translate(-26.000000, -9.000000) " points="26 0 35 18 17 18"></polygon>
+            <path d="M0,9 L15,9" id="Line-4" stroke="#333333" stroke-width="7" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
