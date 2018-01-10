@@ -477,6 +477,21 @@ a.anchor {
   display: inline-block;
 }
 
+
+.img-styleguide {
+  padding: -2rem;
+  transition: all 1s ease-in-out;
+  max-width: 30%;
+  max-height: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: none;
+  border-radius:.25rem;
+  display: inline-block;
+}
+
+
+
 .img-process {
   padding: -5rem;
   transition: all 1s ease-in-out;
