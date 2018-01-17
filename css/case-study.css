@@ -167,29 +167,6 @@
   }
 }
 
-.card-body-hero {
-  .card-body
-    -ms-flex: 1 1 auto;
-        flex: 1 1 auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 2rem;
-  padding-top: 1rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  position: relative;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
-      flex-direction: column;
-  min-width: 0;
-  word-wrap: break-word;
-  background-clip: border-box;
-  border-top: none;
-  filter: drop-shadow(0 0 7px #737373);
-}
-}
-
 .card-body-case-study {
   .card-body
     -ms-flex: 1 1 auto;
@@ -228,6 +205,30 @@
   word-wrap: break-word;
   background-clip: border-box;
   border-top: none;
+  filter: drop-shadow(0 0 7px #737373);
+}
+}
+
+.card-body-hero {
+  .card-body
+    -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-clip: border-box;
+  border-top: none;
+  background-image: url('images/about1.jpg');
   filter: drop-shadow(0 0 7px #737373);
 }
 }
