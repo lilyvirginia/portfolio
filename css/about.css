@@ -14,11 +14,10 @@ p {
 
 .jumbotron-programs {
     position: relative;
-    padding: 40px 0;
     margin-bottom: 0px;
     color: #333;
     text-align: center;
-    background-color: #e2e2e2;
+    background-color: #fff;
 
 }
 
@@ -48,6 +47,8 @@ p {
 .margin-text {
   margin-right: 2rem;
   margin-left: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .card-body-mock {
@@ -82,7 +83,7 @@ p {
   padding-left: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
-  padding-top: 1rem;
+  padding-top: 2rem;
   margin-left: 5rem;
   margin-right: 5rem;
   position: relative;
@@ -100,11 +101,14 @@ p {
 }
 
 .card-img {
-  width: 100%;
+  width: 50%;
+  height: auto;
   border-radius: calc(0.25rem - 1px);
   padding-top: 1rem;
   margin-bottom: 1rem;
-  vertical-align: middle;
+  display:inline-block;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .card {
