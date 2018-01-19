@@ -26,8 +26,21 @@ p {
     padding: 40px 0;
     color: #333;
     text-align: center;
-
 }
+.jumbotron-fluid-hero {
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 0;
+  height: 604px;
+}
+
+.jumbotron-fluid-contact {
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 0;
+  height: 1000px;
+}
+
 
 .img-thumbnail-programs {
   padding-left: 2rem;
@@ -100,9 +113,9 @@ p {
   max-height: auto;
 }
 
-.card-img {
-  width: 50%;
-  height: auto;
+.img-card {
+  width: auto;
+  height: 50%;
   border-radius: calc(0.25rem - 1px);
   padding-top: 1rem;
   margin-bottom: 1rem;
@@ -115,4 +128,33 @@ p {
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
+}
+
+.grounded-radiants {
+    color: grey;
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: #fff;
+    background-clip: padding-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.grounded-radiants::after {
+    position: absolute;
+    top: -4px; bottom: -4px;
+    left: -4px; right: -4px;
+    background: linear-gradient(10deg, #52528C 50%, #9E80D9 100%);;
+    content: '';
+    z-index: -1;
+    border-radius: 20px;
+    text-decoration: none;
 }

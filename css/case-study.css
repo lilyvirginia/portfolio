@@ -106,7 +106,13 @@
     margin: 0;
     border-radius: 0.2rem;
   }
-
+  .img-greyscale {
+    max-width: 30%;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    border-radius: 0.2rem;
+  }
 
 .row-case-study {
   display: -ms-flexbox;
