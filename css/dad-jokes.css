@@ -186,6 +186,12 @@
     font-size: 18px;
     }
   }
+@media (max-width: 530px) {
+  .h5 {
+    margin-bottom: -2rem;
+  }
+}
+
   @media (max-width: 460px){
   .caption-overlay-content {
       width: 80%;

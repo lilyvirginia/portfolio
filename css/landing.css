@@ -75,7 +75,10 @@
   transition: all 1s ease-in-out;
   max-width: 50%;
   max-height: auto;
-  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
 }
 
 .margin-bottom {
@@ -194,8 +197,8 @@ a:hover {
 }
 
 .nav-item {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 
@@ -218,7 +221,7 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
   padding-right: 0;
   padding-left: 0;
   border-radius: 0;
-  height: 604px;
+  height: 700px;
 }
 
 .jumbotron-fluid-social {
@@ -257,8 +260,21 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
 .card-body-case-study {
   border-top: none;
 }
-.nav-item {
-  margin-left: 0rem;
-  margin-right: 0rem;
-  }
 }
+@media (max-width: 510px){
+  .nav-item {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    }
+  }
+  @media (max-width: 558px) {
+    .img-thumbnail-social {
+      padding: 1rem;
+      transition: all 1s ease-in-out;
+      max-width: 30%;
+      max-height: auto;
+      margin-left: 0rem;
+      margin-right: 0rem;
+      margin-bottom: 2rem;
+    }
+  }
