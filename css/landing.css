@@ -9,6 +9,7 @@
   margin-right: auto;
   margin-left: auto;
 }
+
 .container-fluid {
   width: 100%;
   margin-right: auto;
@@ -63,9 +64,11 @@
 .card-body {
   -ms-flex: 1 1 auto;
       flex: 1 1 auto;
-  padding-left: 1.25rem;
+  padding-left: 0rem;
   padding-right: 0rem;
 }
+
+/*--! padding-left was 1.25rem */
 
 
 
@@ -233,12 +236,28 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
   background-position: right;
  }
 
+ .container-text {
+     width: 100%;
+     padding-right: 21%;
+     padding-left: 0rem;
+   }
+
+ .margin-nav {
+   margin-bottom: 80px;
+ }
+
 
 
 @media (max-width:1180px) {
   .margin-bottom-huge {
     margin-bottom: 30px;
   }
+}
+
+@media (max-width: 1066px) {
+  .container-text {
+    padding-right: 7%;
+   }
 }
 
 @media (max-width:997px) {
@@ -256,6 +275,12 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
   }
 }
 
+@media (max-width: 776px){
+  .container-text {
+    padding-right: 0%;
+  }
+}
+
 @media (max-width:768px) {
 .card-body-case-study {
   border-top: none;
@@ -266,15 +291,26 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
     margin-left: 5rem;
     margin-right: 5rem;
     }
+    .margin-nav {
+      margin-bottom: 40px;
+    }
   }
-  @media (max-width: 558px) {
+
+  @media (max-width: 575px) {
+    .container-text {
+      padding-left: 7%;
+      padding-right: 7%
+    }
+  }
+@media (max-width: 558px) {
     .img-thumbnail-social {
       padding: 1rem;
       transition: all 1s ease-in-out;
-      max-width: 30%;
+      max-width: 20%;
       max-height: auto;
       margin-left: 0rem;
       margin-right: 0rem;
       margin-bottom: 2rem;
     }
+
   }

@@ -88,6 +88,13 @@ p {
   max-height: auto;
 }
 
+.container-fluid-music {
+  justify-content: center;
+  max-width: 90%;
+  align-items: center;
+  margin-left: 10rem;
+}
+
 
 .card-body-skills {
   .card-body
