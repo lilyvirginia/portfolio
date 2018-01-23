@@ -304,9 +304,9 @@ h3, h4, h5, h6, p, .h4, .h5, .h6, .p {
   }
 @media (max-width: 558px) {
     .img-thumbnail-social {
-      padding: 1rem;
+      padding: 0rem;
       transition: all 1s ease-in-out;
-      max-width: 20%;
+      max-width: 50%;
       max-height: auto;
       margin-left: 0rem;
       margin-right: 0rem;
