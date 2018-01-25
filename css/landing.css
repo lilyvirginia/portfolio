@@ -202,6 +202,8 @@ a:hover {
 .nav-item {
   margin-left: 1rem;
   margin-right: 1rem;
+  width: 90px;
+  text-align: center;
 }
 
 
