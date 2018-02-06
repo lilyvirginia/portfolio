@@ -145,10 +145,16 @@
   padding-left: 0rem;
   padding-right: 0rem;
 }
+
+.li-regular {
+  font-weight: 300px;
+}
+
 .li-categories {
   font-size: 20px;
   font-weight: 300;
 }
+
 
 .card {
   position: relative;
