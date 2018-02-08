@@ -3747,7 +3747,7 @@ tbody.collapse.show {
 }
 
 .nav-link.disabled {
-  color: #868e96;
+  color: #fff;
 }
 
 .nav-tabs {
@@ -3769,7 +3769,7 @@ tbody.collapse.show {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #868e96;
+  color: #fff;
   background-color: transparent;
   border-color: transparent;
 }
