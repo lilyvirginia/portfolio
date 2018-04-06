@@ -5802,7 +5802,7 @@ button.close {
 .carousel-inner {
   position: relative;
   width: 100%;
-  overflow: hidden;
+  overflow:hidden;
 }
 
 .carousel-item {
@@ -5813,7 +5813,8 @@ button.close {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: 100%;
+  width: auto;
+  height: 500px;
   transition: -webkit-transform 1s ease;
   transition: transform 1s ease;
   transition: transform 1s ease, -webkit-transform 1s ease;
@@ -5934,7 +5935,7 @@ button.close {
 .carousel-indicators {
   position: absolute;
   right: 0;
-  bottom: 10px;
+  bottom: 5px;
   left: 0;
   z-index: 15;
   display: -webkit-box;
@@ -5993,7 +5994,7 @@ button.close {
   left: 0%;
   z-index: 10;
   padding-top: .5rem;
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   color: #fff;
