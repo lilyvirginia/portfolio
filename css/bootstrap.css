@@ -5892,15 +5892,15 @@ button.close {
   -ms-flex-pack: center;
   justify-content: center;
   width: 15%;
-  color: #fff;
+  color: #52528C;
   text-align: center;
-  opacity: 0.5;
+  opacity: .9;
 }
 
 .carousel-control-prev:focus, .carousel-control-prev:hover,
 .carousel-control-next:focus,
 .carousel-control-next:hover {
-  color: #fff;
+  color: #52528C;
   text-decoration: none;
   outline: 0;
   opacity: .9;
@@ -5959,7 +5959,7 @@ button.close {
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, .5);
 }
 
 .carousel-indicators li::before {
